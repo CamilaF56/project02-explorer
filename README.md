@@ -34,7 +34,7 @@ Esse projeto simples consiste na criação de um formulário que simula o preenc
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://eventos-camila.vercel.app). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://treine-camila.vercel.app). 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
